@@ -1,0 +1,29 @@
+.form{
+    background-color: snow;
+    display: flex;
+    flex-direction: column;
+    padding: 35px 75px;
+    color: #7e0e33;
+    border-radius: 8px;
+}
+
+.label{
+    font-size: 20px;
+    margin: 0;
+}
+
+input{
+    border: solid 1.5px #32a7b1;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+button{
+    background-color: #7e0e33;
+    color: snow;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px;
+}
